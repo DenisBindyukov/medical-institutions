@@ -40,7 +40,7 @@ const EmployeeForm: React.FC<EmployeeFormProps> = (props: EmployeeFormProps) => 
 
     useEffect(() => {
         if (employee) reset(employee);
-    }, [employee]);
+    }, [employee, reset]);
 
     const onSubmit = (data: Employee) => {
         onSave(data);

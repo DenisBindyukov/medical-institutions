@@ -3,7 +3,7 @@ import {useDataContext} from "../../context/createDataContext";
 import {Employee} from "../../types/employee.types";
 import {ModalDialogActions} from "../../../components/table/buttons/ModalDialogActions";
 import {useLocation} from "react-router-dom";
-import EmployeeForm from "../../../components/EmployeeForm/EmployeeForm";
+import EmployeeForm from "../../../components/employee-form/EmployeeForm";
 import { DialogContent, DialogContentText } from '@mui/material';
 
 export type ActionType = 'add' | 'edit' | 'delete';
