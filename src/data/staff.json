@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "lastName": "Ivanov",
+    "firstName": "Ivan",
+    "middleName": "Ivanovich",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "head"
+  },
+  {
+    "id": 2,
+    "lastName": "Petrova",
+    "firstName": "Anna",
+    "middleName": "Sergeevna",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "head"
+  },
+  {
+    "id": 3,
+    "lastName": "Sidorov",
+    "firstName": "Pavel",
+    "middleName": "Nikolaevich",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 4,
+    "lastName": "Kuznetsova",
+    "firstName": "Elena",
+    "middleName": "Ivanovna",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 5,
+    "lastName": "Smirnov",
+    "firstName": "Alexey",
+    "middleName": "Vladimirovich",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 6,
+    "lastName": "Fedorov",
+    "firstName": "Sergey",
+    "middleName": "Pavlovich",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 7,
+    "lastName": "Morozova",
+    "firstName": "Maria",
+    "middleName": "Nikolaevna",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 8,
+    "lastName": "Vasilyev",
+    "firstName": "Igor",
+    "middleName": "Sergeevich",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 9,
+    "lastName": "Zaitseva",
+    "firstName": "Anna",
+    "middleName": "Dmitrievna",
+    "department": "cardiology",
+    "role": "nurse",
+    "status": "regular"
+  },
+  {
+    "id": 10,
+    "lastName": "Pavlova",
+    "firstName": "Elena",
+    "middleName": "Alexandrovna",
+    "department": "surgery",
+    "role": "nurse",
+    "status": "regular"
+  },
+  {
+    "id": 11,
+    "lastName": "Grigoryev",
+    "firstName": "Dmitry",
+    "middleName": "Nikolaevich",
+    "department": "cardiology",
+    "role": "nurse",
+    "status": "regular"
+  },
+  {
+    "id": 12,
+    "lastName": "Mikhaylova",
+    "firstName": "Olga",
+    "middleName": "Petrovna",
+    "department": "surgery",
+    "role": "nurse",
+    "status": "regular"
+  },
+  {
+    "id": 13,
+    "lastName": "Nikolaeva",
+    "firstName": "Maria",
+    "middleName": "Ivanovna",
+    "department": "cardiology",
+    "role": "nurse",
+    "status": "regular"
+  },
+  {
+    "id": 14,
+    "lastName": "Kozlov",
+    "firstName": "Andrey",
+    "middleName": "Sergeevich",
+    "department": "surgery",
+    "role": "nurse",
+    "status": "regular"
+  },
+  {
+    "id": 15,
+    "lastName": "Volkov",
+    "firstName": "Alexey",
+    "middleName": "Ivanovich",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 16,
+    "lastName": "Sergeeva",
+    "firstName": "Daria",
+    "middleName": "Pavlovna",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 17,
+    "lastName": "Nikitin",
+    "firstName": "Andrey",
+    "middleName": "Petrovich",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 18,
+    "lastName": "Fomina",
+    "firstName": "Irina",
+    "middleName": "Alexeevna",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 19,
+    "lastName": "Orlov",
+    "firstName": "Victor",
+    "middleName": "Dmitrievich",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 20,
+    "lastName": "Semenov",
+    "firstName": "Nikolay",
+    "middleName": "Ivanovich",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 21,
+    "lastName": "Lebedeva",
+    "firstName": "Marina",
+    "middleName": "Sergeevna",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 22,
+    "lastName": "Karpov",
+    "firstName": "Mikhail",
+    "middleName": "Alexandrovich",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 23,
+    "lastName": "Voronova",
+    "firstName": "Natalia",
+    "middleName": "Ivanovna",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 24,
+    "lastName": "Borisov",
+    "firstName": "Igor",
+    "middleName": "Dmitrievich",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 25,
+    "lastName": "Markov",
+    "firstName": "Stepan",
+    "middleName": "Ivanovich",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 26,
+    "lastName": "Bogdanova",
+    "firstName": "Svetlana",
+    "middleName": "Alexeevna",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 27,
+    "lastName": "Vinogradov",
+    "firstName": "Vladimir",
+    "middleName": "Sergeevich",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 28,
+    "lastName": "Romanova",
+    "firstName": "Tatiana",
+    "middleName": "Petrovna",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 29,
+    "lastName": "Fedorova",
+    "firstName": "Olga",
+    "middleName": "Ivanovna",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 30,
+    "lastName": "Yakovlev",
+    "firstName": "Sergey",
+    "middleName": "Alexeevich",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 31,
+    "lastName": "Mikhailov",
+    "firstName": "Konstantin",
+    "middleName": "Pavlovich",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 32,
+    "lastName": "Petrov",
+    "firstName": "Boris",
+    "middleName": "Dmitrievich",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 33,
+    "lastName": "Novikova",
+    "firstName": "Elena",
+    "middleName": "Ivanovna",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 34,
+    "lastName": "Makarov",
+    "firstName": "Andrey",
+    "middleName": "Sergeevich",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 35,
+    "lastName": "Kuzmin",
+    "firstName": "Ivan",
+    "middleName": "Petrovich",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 36,
+    "lastName": "Zhukova",
+    "firstName": "Irina",
+    "middleName": "Alexandrovna",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 37,
+    "lastName": "Ponomarev",
+    "firstName": "Alexey",
+    "middleName": "Dmitrievich",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 38,
+    "lastName": "Kiseleva",
+    "firstName": "Marina",
+    "middleName": "Ivanovna",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 39,
+    "lastName": "Tikhonov",
+    "firstName": "Oleg",
+    "middleName": "Sergeevich",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 40,
+    "lastName": "Stepanova",
+    "firstName": "Tatiana",
+    "middleName": "Pavlovna",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 41,
+    "lastName": "Zhuravleva",
+    "firstName": "Yulia",
+    "middleName": "Petrovna",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 42,
+    "lastName": "Gusev",
+    "firstName": "Dmitry",
+    "middleName": "Ivanovich",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 43,
+    "lastName": "Sokolov",
+    "firstName": "Maxim",
+    "middleName": "Alexeevich",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 44,
+    "lastName": "Matveeva",
+    "firstName": "Elena",
+    "middleName": "Dmitrievna",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 45,
+    "lastName": "Yermakov",
+    "firstName": "Nikolay",
+    "middleName": "Ivanovich",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 46,
+    "lastName": "Kovaleva",
+    "firstName": "Svetlana",
+    "middleName": "Petrovna",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 47,
+    "lastName": "Pavlov",
+    "firstName": "Roman",
+    "middleName": "Sergeevich",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 48,
+    "lastName": "Golubeva",
+    "firstName": "Natalia",
+    "middleName": "Vladimirovna",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 49,
+    "lastName": "Anisimova",
+    "firstName": "Ekaterina",
+    "middleName": "Ivanovna",
+    "department": "cardiology",
+    "role": "doctor",
+    "status": "regular"
+  },
+  {
+    "id": 50,
+    "lastName": "Nikitina",
+    "firstName": "Diana",
+    "middleName": "Alexandrovna",
+    "department": "surgery",
+    "role": "doctor",
+    "status": "regular"
+  }
+]
